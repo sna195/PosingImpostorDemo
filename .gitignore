@@ -1,2 +1,5 @@
+# cs.meta
+*.cs.meta/
+
 # meta
-.cs.meta/
+*.meta/
