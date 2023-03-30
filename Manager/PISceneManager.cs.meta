@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ad58a2ceeedc7fd4a8e89e1007d54f6b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _sceneInfo: {fileID: 11400000, guid: 4be8fb6a5d217254bb99d389cb226483, type: 2}
+  - _loadFadeInEvent: {fileID: 11400000, guid: 24fc1579804f07446b6fe78f2682eff7, type: 2}
+  - _loadFadeOutEvent: {fileID: 11400000, guid: 6d998d561efbc2e4e8ea9e5d7274565d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

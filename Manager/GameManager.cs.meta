@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fab7e02b3b98ecd4287469e48b2c3bcd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _photonInfo: {fileID: 11400000, guid: 6fec0cb053e693d48ae7e64b1d0a720a, type: 2}
+  - _playerInfo: {fileID: 11400000, guid: 59ab9dbe96ea5374bb93d445b261cfe8, type: 2}
+  - _sceneInfo: {fileID: 11400000, guid: 4be8fb6a5d217254bb99d389cb226483, type: 2}
+  - _genreTheme: {fileID: 11400000, guid: c60e069af61e2644d93d1cb06d70996a, type: 2}
+  - _impostorGuess: {fileID: 11400000, guid: 87b492bee74b6ba4d89891dbfc435371, type: 2}
+  - _startChangeSceneEvent: {fileID: 11400000, guid: b22a9aaaf2830a044853510577ee5b2b, type: 2}
+  - _startGuessEvent: {fileID: 11400000, guid: 5e318bab4cb1b72488bc9e323cd695ba, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
